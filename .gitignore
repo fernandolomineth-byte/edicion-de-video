@@ -3,3 +3,5 @@
 node_modules/
 # Salidas de render
 **/remotion/out/
+# Material de trabajo (videos crudos y proyectos de edición)
+trabajo/
