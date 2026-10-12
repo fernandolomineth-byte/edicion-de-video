@@ -5,3 +5,4 @@ node_modules/
 **/remotion/out/
 # Material de trabajo (videos crudos y proyectos de edición)
 trabajo/
+__pycache__/
