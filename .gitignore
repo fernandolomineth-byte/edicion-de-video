@@ -1,0 +1,5 @@
+# Dependencias instaladas por scripts/setup.sh
+.claude/skills/editor-video-ia/.venv/
+node_modules/
+# Salidas de render
+**/remotion/out/
